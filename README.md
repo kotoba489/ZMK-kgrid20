@@ -1,4 +1,3 @@
-<img src="https://github.com/user-attachments/assets/46f290f5-828f-45e2-a35b-df4c83fea280" width="65%">
 
 
 # ⌨️ kgrid20
